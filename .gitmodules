@@ -1,60 +1,83 @@
 [submodule "seq2seq"]
-	path = ideas/seq2seq
+
 	url = https://github.com/google/seq2seq.git
+	path = seq2seq
 [submodule "tacotron"]
-	path = ideas/tacotron
+
 	url = https://github.com/Kyubyong/tacotron.git
+	path = tacotron
 [submodule "tensor2tensor"]
-	path = ideas/tensor2tensor
+
 	url = https://github.com/tensorflow/tensor2tensor.git
+	path = tensor2tensor
 [submodule "transformer"]
-	path = ideas/transformer
+
 	url = https://github.com/Kyubyong/transformer.git
+	path = transformer
 [submodule "drcn"]
-	path = ideas/drcn
+
 	url = https://github.com/ghif/drcn.git
+	path = drcn
 [submodule "decoupled-multimodal-learning"]
-	path = ideas/decoupled-multimodal-learning
+
 	url = https://github.com/Jakobovski/decoupled-multimodal-learning.git
+	path = decoupled-multimodal-learning
 [submodule "resnet-1k-layers"]
-	path = ideas/resnet-1k-layers
+
 	url = https://github.com/KaimingHe/resnet-1k-layers.git
+	path = resnet-1k-layers
 [submodule "deep-residual-networks"]
-	path = ideas/deep-residual-networks
+
 	url = https://github.com/KaimingHe/deep-residual-networks.git
+	path = deep-residual-networks
 [submodule "overcoming-catastrophic"]
-	path = ideas/overcoming-catastrophic
+
 	url = https://github.com/ariseff/overcoming-catastrophic.git
+	path = overcoming-catastrophic
 [submodule "semisupervised_vae"]
-	path = ideas/semisupervised_vae
+
 	url = https://github.com/saemundsson/semisupervised_vae.git
+	path = semisupervised_vae
 [submodule "glas"]
-	path = ideas/glas
+
 	url = https://github.com/dojoteef/glas.git
+	path = glas
 [submodule "sact"]
-	path = ideas/sact
+
 	url = https://github.com/mfigurnov/sact.git
+	path = sact
 [submodule "sru"]
-	path = ideas/sru
+
 	url = https://github.com/taolei87/sru.git
+	path = sru
 [submodule "drn"]
-	path = ideas/drn
+
 	url = https://github.com/fyu/drn.git
+	path = drn
 [submodule "SSGAN-Tensorflow"]
-	path = ideas/SSGAN-Tensorflow
+
 	url = https://github.com/gitlimlab/SSGAN-Tensorflow.git
+	path = SSGAN-Tensorflow
 [submodule "tensorflow-wavenet"]
-	path = ideas/tensorflow-wavenet
+
 	url = https://github.com/ibab/tensorflow-wavenet.git
+	path = tensorflow-wavenet
 [submodule "variational-dropout-sparsifies-dnn"]
-	path = ideas/variational-dropout-sparsifies-dnn
+
 	url = https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn.git
+	path = variational-dropout-sparsifies-dnn
 [submodule "sciblog"]
-	path = ideas/sciblog
+
 	url = https://github.com/miguelgfierro/sciblog.git
+	path = sciblog
 [submodule "pytorch-dnc"]
-	path = ideas/pytorch-dnc
+
 	url = https://github.com/ixaxaar/pytorch-dnc.git
+	path = pytorch-dnc
 [submodule "BayesianRecurrentNN"]
-	path = ideas/BayesianRecurrentNN
+
 	url = https://github.com/mirceamironenco/BayesianRecurrentNN.git
+	path = BayesianRecurrentNN
+[submodule "progressive_growing_of_gans"]
+	path = progressive_growing_of_gans
+	url = https://github.com/tkarras/progressive_growing_of_gans.git
