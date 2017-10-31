@@ -87,3 +87,6 @@
 [submodule "notes/ganhacks"]
 	path = notes/ganhacks
 	url = https://github.com/soumith/ganhacks.git
+[submodule "segan"]
+	path = segan
+	url = https://github.com/santi-pdp/segan.git
