@@ -81,3 +81,9 @@
 [submodule "progressive_growing_of_gans"]
 	path = progressive_growing_of_gans
 	url = https://github.com/tkarras/progressive_growing_of_gans.git
+[submodule "notes/really-awesome-gan"]
+	path = notes/really-awesome-gan
+	url = https://github.com/nightrome/really-awesome-gan.git
+[submodule "notes/ganhacks"]
+	path = notes/ganhacks
+	url = https://github.com/soumith/ganhacks.git
