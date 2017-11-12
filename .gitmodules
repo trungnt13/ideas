@@ -90,3 +90,6 @@
 [submodule "segan"]
 	path = segan
 	url = https://github.com/santi-pdp/segan.git
+[submodule "bayesgan"]
+	path = bayesgan
+	url = https://github.com/andrewgordonwilson/bayesgan.git
