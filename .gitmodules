@@ -93,3 +93,21 @@
 [submodule "bayesgan"]
 	path = bayesgan
 	url = https://github.com/andrewgordonwilson/bayesgan.git
+[submodule "pyro"]
+	path = pyro
+	url = https://github.com/uber/pyro.git
+[submodule "template"]
+	path = template
+	url = https://github.com/distillpub/template.git
+[submodule "decoupled-neural-interfaces"]
+	path = decoupled-neural-interfaces
+	url = https://github.com/nitarshan/decoupled-neural-interfaces.git
+[submodule "synthetic_gradients_explained"]
+	path = synthetic_gradients_explained
+	url = https://github.com/llSourcell/synthetic_gradients_explained.git
+[submodule "data-science-ipython-notebooks"]
+	path = data-science-ipython-notebooks
+	url = https://github.com/donnemartin/data-science-ipython-notebooks.git
+[submodule "DeepAA"]
+	path = DeepAA
+	url = https://github.com/OsciiArt/DeepAA.git
