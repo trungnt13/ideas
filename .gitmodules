@@ -111,3 +111,6 @@
 [submodule "DeepAA"]
 	path = DeepAA
 	url = https://github.com/OsciiArt/DeepAA.git
+[submodule "Fader-Networks-Tensorflow"]
+	path = Fader-Networks-Tensorflow
+	url = https://github.com/hardikbansal/Fader-Networks-Tensorflow.git
