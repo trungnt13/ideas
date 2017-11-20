@@ -114,3 +114,6 @@
 [submodule "Fader-Networks-Tensorflow"]
 	path = Fader-Networks-Tensorflow
 	url = https://github.com/hardikbansal/Fader-Networks-Tensorflow.git
+[submodule "boltzmann-machines"]
+	path = boltzmann-machines
+	url = https://github.com/monsta-hd/boltzmann-machines.git
