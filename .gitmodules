@@ -123,3 +123,6 @@
 [submodule "DLTK"]
 	path = DLTK
 	url = https://github.com/DLTK/DLTK.git
+[submodule "datasets/dataset"]
+	path = datasets/dataset
+	url = https://github.com/openimages/dataset.git
