@@ -120,3 +120,6 @@
 [submodule "decorrelated-adversarial-autoencoder"]
 	path = decorrelated-adversarial-autoencoder
 	url = https://github.com/patrickgadd/decorrelated-adversarial-autoencoder.git
+[submodule "DLTK"]
+	path = DLTK
+	url = https://github.com/DLTK/DLTK.git
