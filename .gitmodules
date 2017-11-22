@@ -135,3 +135,9 @@
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/StanfordVL/ntp.git
+[submodule "RL-Pseudocode"]
+	path = RL-Pseudocode
+	url = https://github.com/LinxiFan/RL-Pseudocode.git
+[submodule "multiagent-competition"]
+	path = multiagent-competition
+	url = https://github.com/openai/multiagent-competition.git
