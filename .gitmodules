@@ -117,6 +117,9 @@
 [submodule "boltzmann-machines"]
 	path = boltzmann-machines
 	url = https://github.com/monsta-hd/boltzmann-machines.git
+[submodule "Traffic-Sign-Recognition-with-Deep-Learning-CNN"]
+	path = Traffic-Sign-Recognition-with-Deep-Learning-CNN
+	url = https://github.com/JamesLuoau/Traffic-Sign-Recognition-with-Deep-Learning-CNN.git
 [submodule "decorrelated-adversarial-autoencoder"]
 	path = decorrelated-adversarial-autoencoder
 	url = https://github.com/patrickgadd/decorrelated-adversarial-autoencoder.git
