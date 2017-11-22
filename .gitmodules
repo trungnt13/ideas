@@ -126,3 +126,6 @@
 [submodule "datasets/dataset"]
 	path = datasets/dataset
 	url = https://github.com/openimages/dataset.git
+[submodule "value-prediction-network"]
+	path = value-prediction-network
+	url = https://github.com/junhyukoh/value-prediction-network.git
