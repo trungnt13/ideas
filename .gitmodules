@@ -132,3 +132,6 @@
 [submodule "value-prediction-network"]
 	path = value-prediction-network
 	url = https://github.com/junhyukoh/value-prediction-network.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/StanfordVL/ntp.git
