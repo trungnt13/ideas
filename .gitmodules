@@ -147,3 +147,6 @@
 [submodule "gae"]
 	path = gae
 	url = https://github.com/tkipf/gae.git
+[submodule "UniversalStyleTransfer"]
+	path = UniversalStyleTransfer
+	url = https://github.com/Yijunmaverick/UniversalStyleTransfer.git
