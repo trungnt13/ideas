@@ -144,3 +144,6 @@
 [submodule "gcn"]
 	path = gcn
 	url = https://github.com/tkipf/gcn.git
+[submodule "gae"]
+	path = gae
+	url = https://github.com/tkipf/gae.git
