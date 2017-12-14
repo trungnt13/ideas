@@ -141,3 +141,6 @@
 [submodule "multiagent-competition"]
 	path = multiagent-competition
 	url = https://github.com/openai/multiagent-competition.git
+[submodule "gcn"]
+	path = gcn
+	url = https://github.com/tkipf/gcn.git
