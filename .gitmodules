@@ -150,3 +150,6 @@
 [submodule "UniversalStyleTransfer"]
 	path = UniversalStyleTransfer
 	url = https://github.com/Yijunmaverick/UniversalStyleTransfer.git
+[submodule "ac-gan"]
+	path = ac-gan
+	url = https://github.com/buriburisuri/ac-gan.git
