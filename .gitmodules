@@ -159,3 +159,6 @@
 [submodule "tacotron_2/Tacotron"]
 	path = tacotron_2/Tacotron
 	url = https://github.com/barronalex/Tacotron.git
+[submodule "cat-net"]
+	path = cat-net
+	url = https://github.com/utiasSTARS/cat-net.git
