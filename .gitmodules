@@ -162,3 +162,6 @@
 [submodule "cat-net"]
 	path = cat-net
 	url = https://github.com/utiasSTARS/cat-net.git
+[submodule "lws"]
+	path = lws
+	url = https://github.com/Jonathan-LeRoux/lws.git
