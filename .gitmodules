@@ -165,3 +165,6 @@
 [submodule "lws"]
 	path = lws
 	url = https://github.com/Jonathan-LeRoux/lws.git
+[submodule "indrnn"]
+	path = indrnn
+	url = https://github.com/batzner/indrnn.git
