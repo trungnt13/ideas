@@ -168,3 +168,6 @@
 [submodule "indrnn"]
 	path = indrnn
 	url = https://github.com/batzner/indrnn.git
+[submodule "DeepMoji"]
+	path = DeepMoji
+	url = https://github.com/bfelbo/DeepMoji.git
