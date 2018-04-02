@@ -171,3 +171,6 @@
 [submodule "DeepMoji"]
 	path = DeepMoji
 	url = https://github.com/bfelbo/DeepMoji.git
+[submodule "transferlearning"]
+	path = transferlearning
+	url = https://github.com/jindongwang/transferlearning.git
