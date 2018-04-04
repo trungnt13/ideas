@@ -174,3 +174,6 @@
 [submodule "transferlearning"]
 	path = transferlearning
 	url = https://github.com/jindongwang/transferlearning.git
+[submodule "_datasets/nlp-datasets"]
+	path = _datasets/nlp-datasets
+	url = https://github.com/niderhoff/nlp-datasets.git
