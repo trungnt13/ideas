@@ -96,9 +96,6 @@
 [submodule "pyro"]
 	path = pyro
 	url = https://github.com/uber/pyro.git
-[submodule "template"]
-	path = template
-	url = https://github.com/distillpub/template.git
 [submodule "decoupled-neural-interfaces"]
 	path = decoupled-neural-interfaces
 	url = https://github.com/nitarshan/decoupled-neural-interfaces.git
@@ -177,3 +174,27 @@
 [submodule "_datasets/nlp-datasets"]
 	path = _datasets/nlp-datasets
 	url = https://github.com/niderhoff/nlp-datasets.git
+[submodule "LifelongVAE"]
+	path = LifelongVAE
+	url = https://github.com/jramapuram/LifelongVAE.git
+[submodule "LSTM_Anomaly_Detector"]
+	path = LSTM_Anomaly_Detector
+	url = https://github.com/jramapuram/LSTM_Anomaly_Detector.git
+[submodule "CVAE"]
+	path = CVAE
+	url = https://github.com/jramapuram/CVAE.git
+[submodule "spotlight"]
+	path = spotlight
+	url = https://github.com/maciejkula/spotlight.git
+[submodule "intrinsic-dimension"]
+	path = intrinsic-dimension
+	url = https://github.com/uber-research/intrinsic-dimension.git
+[submodule "tensorflow-generative-model-collections"]
+	path = tensorflow-generative-model-collections
+	url = https://github.com/hwalsuklee/tensorflow-generative-model-collections.git
+[submodule "deep-painterly-harmonization"]
+	path = deep-painterly-harmonization
+	url = https://github.com/luanfujun/deep-painterly-harmonization.git
+[submodule "rlkit"]
+	path = rlkit
+	url = git@github.com:vitchyr/rlkit.git
